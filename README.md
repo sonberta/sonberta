@@ -47,7 +47,7 @@ I’m always happy to collaborate on **projects at the intersection of biology, 
 
 Thanks for stopping by! 😊
 
-<img width="381" height="400" alt="17712598723357748713454701844015" src="https://github.com/user-attachments/assets/f645fbd2-7d28-4563-960e-28bf0e85321c" /> <img width="381" height="400" alt="1771265311931267209908137118015" src="https://github.com/user-attachments/assets/06adada2-7c43-4220-890f-67d2669da508" />
+<img width="200" height="200" alt="17712598723357748713454701844015" src="https://github.com/user-attachments/assets/f645fbd2-7d28-4563-960e-28bf0e85321c" /> <img width="200" height="200" alt="1771265311931267209908137118015" src="https://github.com/user-attachments/assets/06adada2-7c43-4220-890f-67d2669da508" />
 
 
 <!-- 
