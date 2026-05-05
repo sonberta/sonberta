@@ -33,7 +33,8 @@ I’m especially interested in applications of ML to:
 ---
 
 ### 🚀 Currently Learning
-- Programming for data science (**Python**, **R**)  
+- Programming for data science (**Python**, **R**)
+- Statistical applications for biotechnology
 - Machine learning fundamentals  
 - Scientific computing & data visualization  
 - Git & collaborative open-source workflows  
